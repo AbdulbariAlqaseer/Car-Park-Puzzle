@@ -10,5 +10,5 @@ UCS
 
 A*
 
-#output
+# output
 CMD no Gui
